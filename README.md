@@ -12,3 +12,5 @@
 https://forms.gle/XFMVki7aNoswcG7Q7
 
 Данная версия пособия тестировалась на MacBook Pro (Early 2015), macOS Monterey, Emacs 28.2 (2023-02-22), Howm 20230715.848
+
+Скачать файл [Заметкоделие в howm](https://github.com/Emacs101/howm-manual/blob/8c8ca89eb092a26dcb85cc9467fd81d1395a5789/Howm_tutorial.pdf)
