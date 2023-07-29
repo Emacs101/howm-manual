@@ -29,3 +29,5 @@ https://forms.gle/XFMVki7aNoswcG7Q7
 
 4. [Подборка разные решений и трюков на японском](http://howm.osdn.jp/cgi-bin/hiki/hiki.cgi?c=index)
 
+5. Серия моих видео на Youtube с [демонстрацией системы](https://youtube.com/playlist?list=PL7Hnu5RIVX3LidEkfJgaFOi6YLRLcJWG1).
+
