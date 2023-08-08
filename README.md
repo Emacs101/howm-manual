@@ -17,7 +17,7 @@ https://forms.gle/XFMVki7aNoswcG7Q7
 
 Актуальную версию самоучителя можно скачать здесь:
 
-## 👉 [Заметкоделие в howm](https://github.com/Emacs101/howm-manual/blob/8c8ca89eb092a26dcb85cc9467fd81d1395a5789/Howm_tutorial.pdf) 👈
+## 👉 [Заметкоделие в howm](https://github.com/Emacs101/howm-manual/blob/5e333fd0b9710d2dd45640fbc84a8615de934ae4/Howm_tutorial.pdf) 👈
 
 ## Полезные ресурсы, посвященные howm
 
