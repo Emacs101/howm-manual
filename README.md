@@ -1,6 +1,4 @@
 
-![howm_cover](https://github.com/Emacs101/howm-manual/assets/58047526/ad626542-63aa-48b3-b58f-d06613e5067f)
-
 
 # Руководство по заметкоделию в howm
 
