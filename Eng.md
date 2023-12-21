@@ -2,8 +2,8 @@
 
 ## Tutorial on howm package
 This tutorial is for people who:
-1. Want to create an effective note-taking system to cope with the flow of information from outside and the flow of thoughts inside.
-2. Want to use Emacs for this purpose.
+1. Want to develop an efficient note-taking system that can effectively manage incoming information and internal thought flow.
+2. Intend to use Emacs for this purpose.
 3. Are not satisfied with popular solutions like org-roam.
 
 I'm sure that typos, spelling errors, stylistic inaccuracies, and semantic inconsistencies may have crept into the text. If you notice anything from this list, please let me know. I've created a special form for the sake of privacy.
