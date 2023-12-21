@@ -19,11 +19,8 @@ https://forms.gle/XFMVki7aNoswcG7Q7
 
 ## 👉 [Заметкоделие в howm](https://github.com/Emacs101/howm-manual/blob/main/Howm_tutorial.pdf)👈
 
-## Полезные ресурсы, посвященные howm
-
-1. [Страница проекта на Github](https://github.com/kaorahi/howm)
-2. Заметка Скотта Несбитта ["3 Emacs modes for taking notes"](https://opensource.com/article/18/7/emacs-modes-note-taking). Я узнал о howm именно благодаря этому мимолетному упоминанию.
-3. Статья Лии Нукирхен ["Note taking in Emacs with howm"](https://leahneukirchen.org/blog/archive/2022/03/note-taking-in-emacs-with-howm.html). Покамест самое подробное введение в тему на английском. Есть интересные идеи об интеграции howm и Zotero.
-4. [Краткий самоучитель на английском](https://kaorahi.github.io/howm/README.html)
-5. Серия моих видео на Youtube с [демонстрацией системы](https://youtube.com/playlist?list=PL7Hnu5RIVX3LidEkfJgaFOi6YLRLcJWG1).
+## Полезные ресурсы, связанные с howm
+- [Серия моих видео на Youtube с демонстрацией системы](https://youtube.com/playlist?list=PL7Hnu5RIVX3LidEkfJgaFOi6YLRLcJWG1).
+- [Статья для тех, кто только намеревается освоить Emacs](https://qnnnp.substack.com/p/emacs)
+- [Статья с обзором разных пакетов Emacs для базы знаний](https://qnnnp.substack.com/p/emacs-2a6)
 
