@@ -1,8 +1,7 @@
-<pre>
-<p align="left">
-  <img src="https://github.com/Emacs101/howm-manual/blob/main/cover_howm.png" width="652" height="490">
-</p>
-</pre>
+
+![](cover_howm.png)
+
+
 
 | 🇬🇧 Eng        | 🇷🇺 Rus        | 
 |:-------------:|:-------------:| 
