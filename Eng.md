@@ -1,5 +1,6 @@
 ![](welcome.gif)
 
+## Tutorial on howm package
 This tutorial is for people who:
 1. Want to create an effective note-taking system to cope with the flow of information from outside and the flow of thoughts inside.
 2. Want to use Emacs for this purpose.
@@ -12,10 +13,9 @@ Send edits ☞ [here](https://forms.gle/AECEhwNjhzU57you7). I cannot guarantee f
 The instructions provided in this manual are valid for the howm version 20231215.1256
 
 You can download the current version of the tutorial 
-## ☞ [here](Howm_tutorial_eng.pdf)
+### ☞ [here](Howm_tutorial_eng.pdf)
 
-------
-Useful resources on howm:
+## Useful resources on howm:
 1. [Official project page on GitHub by Kazuyuki Hiraoka](https://github.com/kaorahi/howm)
 2. [Quick guide in English](https://kaorahi.github.io/howm/README.html)
 3. [An article by Leah Nukirchen with some useful life hacks](https://leahneukirchen.org/blog/archive/2022/03/note-taking-in-emacs-with-howm.html)
