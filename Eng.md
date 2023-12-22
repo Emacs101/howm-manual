@@ -19,4 +19,4 @@ You can download the current version of the tutorial
 1. [Official project page on GitHub by Kazuyuki Hiraoka](https://github.com/kaorahi/howm)
 2. [Quick guide in English](https://kaorahi.github.io/howm/README.html)
 3. [An article by Leah Nukirchen with some useful life hacks](https://leahneukirchen.org/blog/archive/2022/03/note-taking-in-emacs-with-howm.html)
-4. [A post on opensource.com by Scott Nesbitt](https://opensource.com/article/18/7/emacs-modes-note-taking). I found out about howm precisely because of this passing mention.
+4. [A post on opensource.com by Scott Nesbitt](https://opensource.com/article/18/7/emacs-modes-note-taking). I came across howm because of this passing mention.
