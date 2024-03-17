@@ -10,7 +10,7 @@ I'm sure that typos, spelling errors, stylistic inaccuracies, and semantic incon
 
 Send edits ☞ [here](https://forms.gle/AECEhwNjhzU57you7). I cannot guarantee fast edits, but I will make some revisions to the text, so please stay tuned.
 
-The instructions provided in this manual are valid for the howm version 20231215.1256
+The instructions provided in this manual are valid for the howm version 1.5.1
 
 You can download the current version of the tutorial 
 ### ☞ [here](Howm_tutorial_eng.pdf)
