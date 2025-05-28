@@ -17,7 +17,7 @@ https://forms.gle/XFMVki7aNoswcG7Q7
 
 Актуальную версию самоучителя можно скачать здесь:
 
-## ☞ [Заметкоделие в howm](Howm_tutorial_ru.pdf)
+## ☞ <a href="Howm_tutorial_ru.pdf" download>Заметкоделие в Howm</a>
 
 ## Полезные ресурсы, связанные с howm
 - [Серия моих видео на Youtube с демонстрацией системы](https://youtube.com/playlist?list=PL7Hnu5RIVX3LidEkfJgaFOi6YLRLcJWG1).
