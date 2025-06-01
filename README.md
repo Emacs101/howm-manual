@@ -1,7 +1,10 @@
-![](cover_howm.png)
+<img src="howm-cup.svg" width="300">
+<hr />
 
-| 🇬🇧 Eng        | 🇷🇺 Rus        | 
-|:-------------:|:-------------:| 
-| Tutorial on howm package for folks who speak English | Руководство по пакету howm для русскоязычных | 
-| [☞ here](Eng.md) |[☞ здесь](RUS.md)|
+
+🇬🇧 Eng        
+Tutorial on howm package for folks who speak English [☞ here](Eng.md)
+
+🇷🇺 Rus       
+Руководство по пакету howm для русскоязычных [☞ здесь](RUS.md)
 
