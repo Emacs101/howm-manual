@@ -1,19 +1,13 @@
-![](welcome.gif)
-
 ## Tutorial on howm package
-This tutorial is for people who:
-1. Want to develop an efficient note-taking system that can effectively manage incoming information and internal thought flow.
-2. Intend to use Emacs for this purpose.
-3. Are not satisfied with popular solutions like org-roam.
+This project is dedicated to people who use writing to make sense of the world. We need a tool to assemble pieces of information and interlink scattered facts.
+Howm—an Emacs package created by Kazuyuki Hiraoka—seems well-suited for this task. It functions as a personal wiki. As the Howm motto says, you can “write fragmentally and read collectively.”
 
-I'm sure that typos, spelling errors, stylistic inaccuracies, and semantic inconsistencies may have crept into the text. If you notice anything from this list, please let me know. I've created a special form for the sake of privacy.
+While it’s possible to master Howm on your own if you’re familiar with Emacs, having a tutorial is always helpful. So here it is.
+You can download the book Efficient Note-taking in Emacs with Howm in either the [ePUB](Howm_tutorial_eng.epub) or [PDF](Howm_tutorial_eng.pdf) format.
 
-Send edits ☞ [here](https://forms.gle/AECEhwNjhzU57you7). I cannot guarantee fast edits, but I will make some revisions to the text, so please stay tuned.
+As a side note, it’s easier to do that from the page on my [website](https://emacs101.github.io).
 
-The instructions provided in this manual are valid for the howm version 1.5.1
-
-You can download the current version of the tutorial 
-### ☞ [here](Howm_tutorial_eng.pdf)
+The instructions in this tutorial apply to Howm version 1.5.5. 
 
 ## Useful resources on howm:
 1. [Official project page on GitHub by Kazuyuki Hiraoka](https://github.com/kaorahi/howm)
