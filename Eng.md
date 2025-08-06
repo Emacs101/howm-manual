@@ -1,4 +1,4 @@
-## Tutorial on howm package
+## Tutorial on Howm package
 This project is dedicated to people who use writing to make sense of the world. We need a tool to assemble pieces of information and interlink scattered facts.
 Howm—an Emacs package created by Kazuyuki Hiraoka—seems well-suited for this task. It functions as a personal wiki. As the Howm motto says, you can “write fragmentally and read collectively.”
 
@@ -9,7 +9,7 @@ As a side note, it’s easier to do that from the page on my [website](https://e
 
 The instructions in this tutorial apply to Howm version 1.5.5. 
 
-## Useful resources on howm:
+## Useful resources on Howm:
 1. [Official project page on GitHub by Kazuyuki Hiraoka](https://github.com/kaorahi/howm)
 2. [Quick guide in English](https://kaorahi.github.io/howm/README.html)
 3. [An article by Leah Nukirchen with some useful life hacks](https://leahneukirchen.org/blog/archive/2022/03/note-taking-in-emacs-with-howm.html)
