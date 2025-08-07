@@ -3,7 +3,7 @@ This project is dedicated to people who use writing to make sense of the world. 
 Howm—an Emacs package created by Kazuyuki Hiraoka—seems well-suited for this task. It functions as a personal wiki. As the Howm motto says, you can “write fragmentally and read collectively.”
 
 While it’s possible to master Howm on your own if you’re familiar with Emacs, having a tutorial is always helpful. So here it is.
-You can download the book Efficient Note-taking in Emacs with Howm in either the [ePUB](Howm_tutorial_eng.epub) or [PDF](Howm_tutorial_eng.pdf) format.
+You can download the book _Efficient Note-taking in Emacs with Howm_ in either the [ePUB](Howm_tutorial_eng.epub) or [PDF](Howm_tutorial_eng.pdf) format.
 
 As a side note, it’s easier to do that from the page on my [website](https://emacs101.github.io).
 
