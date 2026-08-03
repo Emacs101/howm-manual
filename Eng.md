@@ -7,6 +7,8 @@ You can download the book _Efficient Note-taking in Emacs with Howm_ in either t
 
 As a side note, it’s easier to do that from the page on my [website](https://emacs101.github.io).
 
+If you like to read tutorials directly inside Emacs, there's a [Texinfo version](https://github.com/Emacs101/howm-manual/issues/7) available for you. Thanks to the efforts of [@rrgmitchell](https://github.com/rrgmitchell)
+
 The instructions in this tutorial apply to Howm version 1.5.5. 
 
 ## Useful resources on Howm:
